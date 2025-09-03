@@ -49,3 +49,5 @@ Also, refine the presented model by adding the following points:
 Customers can create an individual or business account, but this account cannot have both information.
 The customer can register more than one payment method.
 Delivery has status and tracking code.
+
+Solution in documents
